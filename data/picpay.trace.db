@@ -1,0 +1,6 @@
+2024-07-01 21:18:11.683757-03:00 jdbc[73]: exception
+org.h2.jdbc.JdbcSQLSyntaxErrorException: Syntax error in SQL statement "SELECT * FROM TRANSACTIONS WALLETS [*]WALLETS"; SQL statement:
+SELECT * FROM TRANSACTIONS WALLETS WALLETS [42000-224]
+2024-07-01 21:21:55.573508-03:00 jdbc[13]: exception
+org.h2.jdbc.JdbcSQLSyntaxErrorException: Syntax error in SQL statement "[*]TRANSACTIONS"; expected "TRUNCATE"; SQL statement:
+TRANSACTIONS [42001-224]
